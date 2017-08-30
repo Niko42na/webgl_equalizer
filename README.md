@@ -1,1 +1,1 @@
-Try here - https://niko42na.github.io/webgl_equalizer/
+My pet-project "Equalizer", using WebGL and some magic))
